@@ -1,19 +1,7 @@
 # Diabetes-Classification-model
 
 ## Data Source
-
-
-## Analysis Appoach
-
-
-## Content
-
-## Attributes in dataset
-
-## Questions
-
-## Data Cleaning
-
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 ## Visualization 
 
