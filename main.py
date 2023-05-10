@@ -43,9 +43,9 @@ X_train, X_test, y_train , y_test = train_test_split(processed_X, y, test_size =
 
 lrc = LogisticRegression()
 
-knc = KNeighborsClassifier()
+knc = KNeighborsClassifier(random_state=2)
 dtc = DecisionTreeClassifier(random_state=2)
-lrc = LogisticRegression()
+lrc = LogisticRegression(random_state=2)
 rfc = RandomForestClassifier(random_state=2)
 abc = AdaBoostClassifier(random_state=2)
 bc = BaggingClassifier(random_state=2)
